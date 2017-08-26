@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/aisino/Desktop/EasyOrder/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/aisino/Desktop/EasyOrder/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/aisino/Desktop/EasyOrder/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/aisino/Desktop/EasyOrder/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
